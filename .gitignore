@@ -1,0 +1,12 @@
+.idea/
+
+# dependencies
+/node_modules
+
+# misc
+.DS_Store
+cypress/cucumber-json
+cypress/videos/
+cypress/screenshots/
+allure-results
+allure-report

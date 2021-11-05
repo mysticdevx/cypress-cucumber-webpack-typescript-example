@@ -1,0 +1,10 @@
+{
+  "testFiles": "**/*.feature",
+  "ignoreTestFiles": "*.ts",
+  "video": false,
+  "env": {
+    "issuePrefix": "https://your.project.mgmt.link/",
+    "allure": true,
+    "allureResultsPath": "allure-results"
+  }
+}
